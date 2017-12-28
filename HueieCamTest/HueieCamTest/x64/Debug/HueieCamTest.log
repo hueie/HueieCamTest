@@ -1,0 +1,4 @@
+﻿  HueieCamTest2_RefSrc.cpp
+c:\users\kait\documents\visual studio 2015\projects\hueiecamtest\hueiecamtest\hueiecamtest2_refsrc.cpp(62): warning C4101: 'color': unreferenced local variable
+  HueieCamTest.vcxproj -> C:\Users\kait\documents\visual studio 2015\Projects\HueieCamTest\x64\Debug\HueieCamTest.exe
+  HueieCamTest.vcxproj -> C:\Users\kait\documents\visual studio 2015\Projects\HueieCamTest\x64\Debug\HueieCamTest.pdb (Full PDB)
