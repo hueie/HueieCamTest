@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\pioneer\source\repos\hueiecamtest\hueiecamtest\{out}\x64\release\hueiecamdll.dll' is denied.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\pioneer\source\repos\hueiecamtest\hueiecamtest\{out}\x64\release\hueiecamdll.dll' is denied.
+  stdafx.cpp
+  dllmain.cpp
+  HueieCamDll.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(638,5): error MSB6006: "link.exe" exited with code 1104.
+LINK : fatal error LNK1104: cannot open file 'C:\Users\pioneer\Source\Repos\HueieCamTest\HueieCamTest\\{out}\x64\Release\HueieCamDll.dll'

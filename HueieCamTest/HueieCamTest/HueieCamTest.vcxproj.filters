@@ -38,5 +38,8 @@
     <ClCompile Include="HueieCamTest2_RefSrc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="171230_HueieCamTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
